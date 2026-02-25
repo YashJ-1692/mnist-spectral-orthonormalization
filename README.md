@@ -8,7 +8,7 @@ This repository explores the intersection of high-dimensional data analysis and 
 * **Mathematical Mapping:** Investigating how abstract structured interference patterns (similar to those found in quantum circuits) manifest in classical image data.
 
 ## Technical Stack
-* **Language:** Python 3.x
+* **Language:** Python
 * **Libraries:** NumPy (Linear Algebra), SciPy (Optimization), Matplotlib (Visualization)
 * **Environment:** Jupyter Notebook
 

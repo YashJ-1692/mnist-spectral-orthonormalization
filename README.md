@@ -17,9 +17,7 @@ The analysis follows a three-step pipeline:
 1. **Normalization:** Pre-processing MNIST tensors for unit-energy consistency.
 2. **Decomposition:** Executing spectral decomposition to identify dominant structural modes.
 3. **Deviation Mapping:** Quantifying "structural distance" using:
-   '''math
-   \|A - B\|_F = \sqrt{\sum_{i=1}^m \sum_{j=1}^n |a_{ij} - b_{ij}|^2}$$
-   '''
+   $\|A - B\|_F = \sqrt{\sum_{i=1}^m \sum_{j=1}^n |a_{ij} - b_{ij}|^2}$
 
 ## Future Work
 A formal preprint is currently in preparation, extending these spectral methods toward **Quantum State Tomography** and fault-tolerant algorithm mapping.
